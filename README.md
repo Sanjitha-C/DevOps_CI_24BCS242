@@ -29,3 +29,6 @@ From the project root, run:
 ```bash
 mvn test
 ```
+## Feature Update
+
+Added feature branch documentation for the DevOps workflow.
