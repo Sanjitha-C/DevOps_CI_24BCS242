@@ -29,3 +29,9 @@ From the project root, run:
 ```bash
 mvn test
 ```
+## Feature Update
+
+Added feature branch documentation for the DevOps workflow.
+## Continuous Integration
+
+The project uses Jenkins to automatically build and test changes committed to the repository.
