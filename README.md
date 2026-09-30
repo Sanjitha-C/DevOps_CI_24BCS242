@@ -29,3 +29,4 @@ From the project root, run:
 ```bash
 mvn test
 ```
+This project demonstrates Git, GitHub and Jenkins CI with bug fixes.
